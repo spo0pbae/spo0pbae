@@ -1,7 +1,7 @@
 # Hello there! 👋
 ## About Me
 
-I am Sierra Negrón, a student Game Developer pursuing my Bachelor's degree in Game Development at Full Sail University.
+I'm Sierra, a programmer who recently got my Bachelor of Science in Game Development.
 
 I enjoy learning various different APIs used for graphics rendering, as well as creating simple projects in Unreal Engine 4 and Unity. I first started programming in November 2020, and have since learned to code in C# and C++, with a little bit of experience working with Java, Python, CMake, and assembly.
 
