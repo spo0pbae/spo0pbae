@@ -1,3 +1,4 @@
+<!---
 # Hello there! 👋
 ## About Me
 
@@ -7,7 +8,7 @@ I enjoy learning various different APIs used for graphics rendering, as well as 
 
 Outside of programming, I enjoy playing video games, learning different musical instruments, drawing, writing stories, and spending time outdoors. My passion for art and storytelling, combined with my love for video games is what sparked my desire to become a game developer. Whether it's on my own free time or a full-time project, I plan on creating my own game(s) in the future!
 
-<!---
+
 spo0pyGD/spo0pyGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
